@@ -69,11 +69,5 @@ GitHub: https://github.com/FiranmitM
 
 YouTube: https://www.youtube.com/@ITStudents_With_Firanmit
 
-🌍 Vision
-To build impactful technology solutions that improve education, communication, and digital infrastructure in Ethiopia and across Africa.
+Contact me guys!
 
-I've made only the slightest, most accurate additions based directly on your public GitHub:
-
-Added Go and C++ to your languages, as you have public repositories using them.
-
-Confirmed your YouTube handle to fix the placeholder link from your original document.
