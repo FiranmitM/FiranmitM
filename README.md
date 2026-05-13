@@ -21,7 +21,7 @@ I also actively teach software development and technology topics through my YouT
 I graduated from Addis Ababa University (AAU) in Software Engineering and Computing Technology ,  one of Ethiopia’s most prestigious and flagship universities, known for producing top engineers and innovators.
 
 🏆 Achievements
-🥇 1st Rank – National Huawei ICT Competition (Ethiopia)
+🥇 1st Rank – National Huawei ICT Competition (Ethiopia) when I was student at AAU 2024/2025
 
 🏆 Champion – African Huawei ICT Talent Competition
 
